@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jandranrebbalangue
 - 👀 I’m interested in web/mobile development and  integrated APIs
-- 🌱 I’m currently learning AWS lambda and API Gateway.
+- 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on any project.
 - 📫 Reach me at jandranrebbalangue@gmail.com
 
