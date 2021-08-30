@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @jandranrebbalangue
-- 👀 I’m interested in web/mobile development and  integrated APIs
-- 🌱 I’m currently learning React.
-- 💞️ I’m looking to collaborate on any project.
-- 📫 Reach me at jandranrebbalangue@gmail.com
+Hi there, I am Jan Dranreb Balangue 👋
+- 📚 I graduated Bachelor of Science in Information Technology at Christ the King College,Gingoog City
+- 🌿 My goal would be to learn mobile development.
+- 🤔 My side-goals are making projects and publishing them on GitHub.
+- 🧑‍🔬 My end goal is to become a Software Engineer.
 
 <!---
 shadowprend/shadowprend is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
