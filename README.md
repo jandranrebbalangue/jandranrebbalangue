@@ -1,7 +1,6 @@
 Hi there, I am Jan Dranreb Balangue 👋
-- 🌱 I’m currently learning Flutter
-- 🌿 My goal would be to learn mobile development.
-- 🤔 My side-goals are making projects and publishing them on GitHub.
+- 🌱 I’m currently learning React
+- 🌿 My goal would be to learn web development.
 - 😄 Pronouns:  He / Him
 - ⚡ Fun fact:  I love coding
 
