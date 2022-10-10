@@ -1,5 +1,5 @@
 Hi there, I am Jan Dranreb Balangue 👋
-- 🌱 I’m currently learning React,Node,Rust
+- 🌱 I’m currently learning React,Node,Rust,Typescript
 - 🌿 My goal would be to learn web development.
 - 😄 Pronouns:  He / Him
 
