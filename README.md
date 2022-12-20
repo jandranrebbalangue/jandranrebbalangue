@@ -3,6 +3,11 @@ Hi there, I am Jan Dranreb Balangue 👋
 - 😄 Pronouns:  He / Him
 - 🌱 I love exploring and learning new things
 
+____________________________________________________________
+
+![](https://raw.githubusercontent.com/jandranrebbalangue/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/jandranrebbalangue/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
 
 <!---
 shadowprend/shadowprend is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
