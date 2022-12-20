@@ -4,9 +4,7 @@ Hi there, I am Jan Dranreb Balangue 👋
 - 🌱 I love exploring and learning new things
 
 ____________________________________________________________
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jandranrebbalangue&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-![](https://raw.githubusercontent.com/jandranrebbalangue/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jandranrebbalangue&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  ![](https://raw.githubusercontent.com/jandranrebbalangue/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 
 <!---
