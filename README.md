@@ -1,5 +1,5 @@
 Hi there, I am Jan Dranreb Balangue 👋
-- 🌱 I’m currently learning React,Node,Rust,Typescript
+- 🌱 I’m currently learning React,Node,Go,Typescript
 - 😄 Pronouns:  He / Him
 - 🌱 I love to explore and learn new things
 <!---
